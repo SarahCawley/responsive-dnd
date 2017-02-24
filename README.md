@@ -6,21 +6,21 @@ This is a responsively designed character sheet designed for Dungeons & Dragons 
 
 #How to run locally
 
-*Clone this repo
+* Clone this repo
 
-*This is a node app. Before you can run responsive-dnd on your computer you must first download node, please see https://nodejs.org for downloading instruction.
+* This is a node app. Before you can run responsive-dnd on your computer you must first download node, please see https://nodejs.org for downloading instruction.
 
-*Once you have gotten node up and running, navigate to the correct directory
+* Once you have gotten node up and running, navigate to the correct directory
 
-*Install all of the node dependencies by running `npm install`  (grab a tasty beverage this will take a couple minutes)
+* Install all of the node dependencies by running `npm install`  (grab a tasty beverage this will take a couple minutes)
 
-*Install gulp `npm install gulp-cli -g`
+* Install gulp `npm install gulp-cli -g`
 
-*Install http-server if you do not already have have it `npm install -g http-server`
+* Install http-server if you do not already have have it `npm install -g http-server`
 
-*Start the server `http-server`
+* Start the server `http-server`
 
-**The site will be running at http://localhost:8080/
+* The site will be running at http://localhost:8080/
 
 
 
